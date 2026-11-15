@@ -1,0 +1,6 @@
+{
+  "name": "Knight's Dragon Run",
+  "description": "A 3D endless runner adventure where a brave knight sprints through Snow, Forest, and Mountain zones while chased by a giant dragon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
